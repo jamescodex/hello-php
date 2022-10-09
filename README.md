@@ -1,1 +1,1 @@
-# july-hacks
+# Trying out PHP for the first time
